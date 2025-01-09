@@ -1,3 +1,0 @@
-- speed increases when the subdivision multiple times change [done]
-- dont reset the vertices when subdivision is changed
-- color input picker
